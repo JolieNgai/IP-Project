@@ -442,6 +442,7 @@ footer {
 .gaming-banner {
     background-image:url(PICTURES/gaming-bg.png);
     background-size:cover;
+
 }
 /*Gaming page end*/
 
@@ -449,6 +450,8 @@ footer {
 .crochet-banner {
     background-image:url(PICTURES/crochet-bg.png);
     background-size:cover;
+    background-position:-5px;
+    
 }
 /*Crochet page end*/
 
