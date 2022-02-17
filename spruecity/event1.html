@@ -41,7 +41,7 @@
               TIME <br />
               1.30PM - 3.30PM <br /><br />
               LOCATION <br />
-              62A Smith St, #02-00, <br />
+              62A Smith St, #02-00,<br />
               Singapore 058964 <br />
               BY : CRAFTEDBYME
             </p>
@@ -96,6 +96,7 @@
       <div class="event-sect-4" style="display: flex; justify-content: center">
         <div id="map" style="height: 600px; width: 2000px"></div>
       </div>
+
       <footer>
         <br />FOLLOW SPRUCECITY<br /><br />
         <div class="footer-grid">
@@ -111,18 +112,18 @@
         </div>
       </footer>
     </div>
-    <script async
+    
+  </body>
+  <script async
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDrnkr-slcU2uAarWieQ7f598QXjxD1i9o&callback=initMap&v=weekly"
     
   ></script>
-  </body>
-  
   <script>
     function initMap() {
       // map options
       var options = {
         zoom: 18,
-        center: { lat: 1.30425, lng: 103.88239 },
+        center: { lat: 1.2829091206843644,  lng:103.84338074500904  },
       };
 
       // new map
@@ -130,8 +131,9 @@
 
       var markers = [
         {
-          coords: { lat: 1.30425, lng: 103.88239 },
-          content: "230 Stadium Blvd, Singapore 397799",
+          coords: { lat:1.2829091206843644 , lng:103.84338074500904  },
+          
+          content: "62A Smith St, #02-00, Singapore 058964",
         },
       ];
 
