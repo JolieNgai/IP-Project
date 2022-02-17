@@ -4,6 +4,7 @@ Teamname: Sprucelings
 Project Name: SpruceCity
 
 Github link: https://github.com/JolieNgai/IP-Project 
+Adobe XD (Wireframe): https://xd.adobe.com/view/8824951f-7ccb-4928-99d8-02e41e6d13da-dd77/ 
 
 Design Process:
 Our main idea is to create a educational website where users are able to learn and pick up basic knowledge of certain hobbies.
@@ -93,4 +94,25 @@ Technologies :
 4. API's
 5. Bootstrap
 6. Lottie
+
+Links/ References:
+1. https://bbbootstrap.com/snippets/bootstrap-5-profile-card-animation-74461039 
+2. https://freefrontend.com/bootstrap-payment-forms/
+3. https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.roseandlilyamigurumi.com%2F2021%2F10%2Fcrochet-squishy-cow-free-pattern.html&psig=AOvVaw16HfqLGUU4GvPRoxaCUg_u&ust=1645186433738000&    source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDp-JnbhvYCFQAAAAAdAAAAABAD
+4. https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.craftfoxes.com%2Fblog%2Fthe-cutest-amigurumi-where-to-find-it-and-how-to-make-it&psig=AOvVaw3jPcZXwug0JSkp7XbQaXWk&ust=1645186465092000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDplKnbhvYCFQAAAAAdAAAAABAD
+5. https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.allfreecrochet.com%2FCrochet-Amigurumi-Patterns%2FCandy-Corn-Bear&psig=AOvVaw3jPcZXwug0JSkp7XbQaXWk&ust=1645186465092000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDplKnbhvYCFQAAAAAdAAAAABAK
+6. https://www.google.com/url?sa=i&url=https%3A%2F%2Fdabblesandbabbles.com%2Ftag%2Fcrochet-patterns%2F&psig=AOvVaw3jPcZXwug0JSkp7XbQaXWk&ust=1645186465092000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDplKnbhvYCFQAAAAAdAAAAABAX
+7. https://www.google.com/search?q=learning&rlz=1C1KNTJ_enSG950SG950&sxsrf=AOaemvIPNFHXQcbA0j_rl2kthZt0icw6Hg:1643210503051&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjE0MyS3M_1AhVPTmwGHRaCDkcQ_AUoAXoECAEQAw&biw=1280&bih=649&dpr=2#imgrc=ugLLzVoo6pbAcM
+8. https://www.google.com/search?q=friendships&rlz=1C1KNTJ_enSG950SG950&sxsrf=AOaemvIh0p6-wWPQ1u8wGWxE8MuseuzKxQ:1643210618425&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiMwM7J3M_1AhVBTWwGHVObAk0Q_AUoAXoECAEQAw&biw=1280&bih=592&dpr=2#imgrc=Ibbc8nCVq0YnlM
+9. https://www.google.com/search?q=creativity&rlz=1C1KNTJ_enSG950SG950&sxsrf=AOaemvLYtBgDfri4U8XSD9GvJ4Niukxu_Q:1643210669662&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiF7oXi3M_1AhXIT2wGHRFzA4IQ_AUoAXoECAEQAw&biw=1280&bih=592&dpr=2#imgrc=oSOGxzAL8evnBM
+10. https://www.google.com/search?q=tree+drawing&rlz=1C1KNTJ_enSG950SG950&sxsrf=AOaemvLdEsIm-gAFCRTm8KS9n0EBBqPybQ:1642992679957&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwizo7rYsMn1AhVniIsKHfClBn8Q_AUoAXoECAEQAw&biw=1280&bih=592&dpr=2#imgrc=fAYHLqk905AAhM
+11. https://www.pinterest.com/pin/AXEr9jRL6hsZWRhd8vDSYZSywpYVs2qZYuqswTDfv6rJDt2eFTEOdh0/
+12. https://lottiefiles.com/41474-growing-plant
+13. https://www.google.com/search?q=crocheting&rlz=1C1KNTJ_enSG950SG950&sxsrf=APq-WBtLWODLkkV_RcCXGcoP71C9CBG4bA:1643305777601&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjR_4WJv9L1AhXlUGwGHZFdBnIQ_AUoAXoECAEQAw&biw=1280&bih=649&dpr=2#imgrc=VCkkAeTv_-ZqIM
+14. https://www.google.com/search?q=fishing+drawing+wallpaper&tbm=isch&chips=q:fish+drawing+wallpaper,g_1:background:KlNavjd0nyU%3D&rlz=1C1KNTJ_enSG950SG950&hl=en&sa=X&ved=2ahUKEwiCw66AwdL1AhUU_jgGHctrACoQ4lYoA3oECAEQIg&biw=1263&bih=649#imgrc=5blHNkQVNvzRZM
+15. https://www.google.com/search?q=gaming+console+wallpaper&tbm=isch&ved=2ahUKEwizq7e2wNL1AhWr7zgGHVHtA1wQ2-cCegQIABAA&oq=gaming+console+wallpaper&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDoHCCMQ7wMQJzoECAAQQzoICAAQgAQQsQM6BggAEAgQHjoECAAQGFCND1i8MWDoMmgAcAB4AIABXIgByQiSAQIxOZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=ndzyYfPoDKvf4-EP0dqP4AU&bih=649&biw=1280&rlz=1C1KNTJ_enSG950SG950#imgrc=KXl5e0I5axJ4KM&imgdii=dWphnVuTp5Dp9M
+16. https://www.google.com/search?q=cooking++wallpaper&tbm=isch&ved=2ahUKEwinxI_YwdL1AhUBj9gFHZK6BvQQ2-cCegQIABAA&oq=cooking++wallpaper&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjEO8DECc6BggAEAcQHjoGCAAQCBAeOgQIABBDUN4IWOwXYNcZaAFwAHgAgAFAiAGaBJIBATmYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=8N3yYaeMEoGe4t4PkvWaoA8&bih=649&biw=1263&rlz=1C1KNTJ_enSG950SG950&hl=en#imgrc=nPxWS7hSdXUGkM&imgdii=xVRkPUPPHLj_HM
+17. https://www.google.com/search?q=learning&rlz=1C1KNTJ_enSG950SG950&sxsrf=AOaemvIPNFHXQcbA0j_rl2kthZt0icw6Hg:1643210503051&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjE0MyS3M_1AhVPTmwGHRaCDkcQ_AUoAXoECAEQAw&biw=1280&bih=649&dpr=2#imgrc=ugLLzVoo6pbAcM
+
+
 
