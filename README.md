@@ -24,45 +24,46 @@ Compared to the standard educational websites, they are usually monochrome and d
 
 Features :
 1. Tutorial videos
-   Users can click on them to watch and learn more about that particular hobby
+   Sprucelings(users) can click on them to watch and learn more about that particular hobby
    Additionally, below the videos, there is a progress bar showing how far they've come for that particular level
    This is to indicate to users the progress they've made 
    
 2. Leaderboards, 
-   For users to vote for their favourite projects that other users have completed
+   For Sprucelings to vote for their favourite projects that other users have completed
 
 3. Feedback page
    We have included a BUG page where users can tell us if they have faced any problems while using our website 
    Moreover, we have an IDEAS page where users can key in suggestions that they have that we can implement into our website in the future
 
 4. Achievements
-   Our users achievements will be acknowledged and listed down to encourage them to continue on and pursue they're selected hobby
+   When a Spruceling completes a Level 1, 
+   they will be awarded an accomplishment title.
+   This is so as to encourage users to continue on and pursue they're selected hobby
 
 5. News
    A page dedicated to talking about news/information related to that particular hobby(E.g Local crocheting business just opens)
-   This is to keep users interested in the different hobbies and potentially teach them more knowledge or informationa bout that particular hobby
+   This is to keep Sprucelings interested in the different hobbies and potentially teach them more knowledge or informationa bout that particular hobby
 
-6. Streaks/ Daily login 
-   Users who log in daily earn points that can be used to discount the price of our premium package 
-   20 points is equivalent to 5% off
+6. Login pages
+   Sprucelings firstly have to enter their email, name and some other particulars to create an account for themselves
+   For new Sprucelings, they will enter their email, username, password, date of birth and choose a profile picture to create an account while
+   Sprucelings who want to login to their existing account will just need to enter their username and password
 
-7. Login pages
-   Users firstly have to enter their email, name and some other particulars to create an account for themselves
-   For new users, they will enter their email, username, password, date of birth and choose a profile picture to create an account while
-   users who want to login to their existing account will just need to enter their username and password
-
-8. Events
-   Users are able to sign up for hobby specific events via our events page found in the community section of our website '
+7. Events
+   Sprucelings are able to sign up for hobby specific events via our events page found in the community section of our website '
    Our events page will show them upcoming program for that particular hobby, it will tell users the materials needed, location, time and date along with a short description of what they
    will be able to get out of the program.
-   For users who are interested in the event, they are able to make booking for the program via the book now button found on the same page
+   For Sprucelings who are interested in the event, they are able to make booking for the program via the book now button found on the same page
 
-9. About Page
-   There is also a page for users to click on to learn more about the companies developers and creators, Chelsea and I, in addition to our companies values and goals for our website 
+8.  About Page
+   There is also a page for Sprucelings to click on to learn more about the companies developers and creators, Chelsea and I, in addition to our companies values and goals for our website 
 
-10. Social Media 
-    Users can also find out more about our website via the social media icons at the bottom, 
-    they can see our Instagram, Twitter and Facebook 
+9. Social Media 
+    Sprucelings can also find out more about our website by clicking the social media icons at the bottom, 
+    By clicking on the individual icons, it will link them to our Instagram, Twitter and Facebook
+
+10. View more works
+    A page where Sprucelings are able to view the works posted by the community 
 
 Testing:
 Google Maps API
